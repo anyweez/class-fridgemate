@@ -61,10 +61,12 @@ Each 'page' is a component, made up of many other components. Easy to reuse comp
 
 Look up UPC code.
 
+### Vuex: data flows
+
+
+
 ### Multiple views
 
 Introduce router? Not sure...might not be worth the complexity.
 
-### Vuex: data flows
-
-As apps grow, 
+Leaning towards **no**.
